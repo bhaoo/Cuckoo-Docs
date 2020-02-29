@@ -1,0 +1,18 @@
+* **开始使用**
+ * [安装主题](/docs/setup)
+ * [常见问题](/docs/problem)
+ * [如何利用本文档](/docs/how-to-use)
+* **功能设置**
+ * [网站图标](/docs/favicon)
+ * [LOGO](/docs/logo)
+ * [静态文件源](/docs/static-resource)
+ * [联系方式](/docs/contact)
+ * [背景图片](/docs/background)
+ * [个人描述](/docs/describe)
+ * [文章置顶](/docs/sticky)
+ * [百度统计](/docs/BaiduStatistics)
+ * [自定义抽屉](/docs/drawer)
+ * [PJAX回调](/docs/pjax)
+* **独立页面**
+ * [友链页面](/docs/links)
+ * [B站追番页面](/docs/bilibili)
