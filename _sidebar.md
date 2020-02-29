@@ -5,14 +5,21 @@
 * **功能设置**
  * [网站图标](/docs/favicon)
  * [LOGO](/docs/logo)
- * [静态文件源](/docs/static-resource)
+ * [个人描述](/docs/describe)
+ * [主题颜色](/docs/color)
  * [联系方式](/docs/contact)
  * [背景图片](/docs/background)
- * [个人描述](/docs/describe)
+ * [静态文件源](/docs/static-resource)
+ * [随机文章图源](/docs/page-img) 
  * [文章置顶](/docs/sticky)
  * [百度统计](/docs/BaiduStatistics)
+ * [备案号](/docs/beian)
+ * [底部信息](/docs/footer)
  * [自定义抽屉](/docs/drawer)
  * [PJAX回调](/docs/pjax)
 * **独立页面**
  * [友链页面](/docs/links)
  * [B站追番页面](/docs/bilibili)
+* **其他说明**
+ * [更新日志](/docs/update-log)
+ * [版权声明](/docs/copy)
