@@ -2,6 +2,8 @@
 
 前排提醒：请遵循 JSON 语法，否则两行泪（哭
 
+另外感谢 [MoLeft](http://www.moleft.cn/) 提供的 [快捷生成工具](http://api.moleft.cn/cuckoo/)
+
 ## 展示位置
 
 ![](https://cdn.jsdelivr.net/gh/bhaoo/bhao-s-blog@latest/contact1.png)
@@ -14,15 +16,16 @@
 
 !> 添加时请遵循 JSON 语法
 
-|name|value|
-|----|----|
-|qq|xxxxxx|
-|github|xxxxxx|
-|telegram|xxxxxx|
-|twitter|xxxxxx|
-|bilibili|xxxxxx|
-|email|xxxxxx|
-|weibo|xxxxxx|
+|#|name|value|
+|:----:|:----:|:----:|
+|QQ|qq|xxxxxx|
+|Github|github|xxxxxx|
+|Telegram|telegram|xxxxxx|
+|Twitter|twitter|xxxxxx|
+|Email|email|xxxxxx|
+|哔哩哔哩|bilibili|xxxxxx|
+|微博|weibo|xxxxxx|
+|网易云音乐|netease-music|xxxxxx|
 
 !> 各位在使用时可以自行选择，注意不要超过六个！
 
