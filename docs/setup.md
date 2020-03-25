@@ -30,5 +30,5 @@ PS:可以给卑微作者点个 [Star](https://github.com/bhaoo/Cuckoo/) 嘛？
 
 如果你喜欢这个主题，也欢迎给作者投食哦！ [点击投食](https://afdian.net/@bhaoo)
 
-<small>最后更新时间：2020-03-24 适应于v1.0.2及以下版本<br>Copyright © 2020 [Bhao](https://dwd.moe/), under GPL-3.0 License.</small>
+<small>最后更新时间：2020-03-25 适应于v1.0.2及以下版本<br>Copyright © 2020 [Bhao](https://dwd.moe/), under GPL-3.0 License.</small>
 

@@ -3,7 +3,7 @@
 
 ## 开始使用
 
-1. 下载 [Links](http://www.imhan.com/archives/typecho_links_20141214/) 插件
+1. 下载 [Links](https://github.com/bhaoo/Cuckoo/releases/download/1.0.2/Links.zip) 插件
 2. 创建一个独立页面，将自定义模版设置为 **“Links”**
 3. 点击 **“发表页面”** 即可完成友链的创建
 
