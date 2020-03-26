@@ -3,7 +3,7 @@
 
 ## 友链无法正常显示
 
-友情链接需要“ [Links](http://www.imhan.com/archives/typecho_links_20141214/) ”插件支持哦，否则会导致出错。
+友情链接需要“ [Links](https://github.com/bhaoo/Cuckoo/releases/download/1.0.2/Links.zip) ”插件支持哦，否则会导致出错。
 
 ## Aplayer 页面切换问题
 
