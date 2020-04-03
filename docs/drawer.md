@@ -4,6 +4,8 @@
 
 !> 请遵循 JSON 语法，否则两行泪（哭
 
+另外感谢 [MoLeft](http://www.moleft.cn/) 提供的 [快捷生成工具](http://cuckoo.moleft.cn/tool/drawer.php)
+
 ## 普通按钮
 
 |name|value|remark|

@@ -1,8 +1,8 @@
 # 联系方式
 
-前排提醒：请遵循 JSON 语法，否则两行泪（哭
+!> 请遵循 JSON 语法，否则两行泪（哭
 
-另外感谢 [MoLeft](http://www.moleft.cn/) 提供的 [快捷生成工具](http://api.moleft.cn/cuckoo/)
+另外感谢 [MoLeft](http://www.moleft.cn/) 提供的 [快捷生成工具](http://cuckoo.moleft.cn/tool/contact.php)
 
 ## 展示位置
 
