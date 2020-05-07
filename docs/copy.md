@@ -9,6 +9,7 @@
 - [JQuery](https://github.com/jquery/jquery)
 - [JQuery PJAX](https://github.com/defunkt/jquery-pjax)
 - [JQuery Lazyload](https://github.com/tuupola/lazyload)
+- [JQuery Fancybox](//www.fancybox.net/)
 - [Infinite-Ajax-Scroll](https://github.com/webcreate/Infinite-Ajax-Scroll)
 - [Nprogress](https://github.com/rstacruz/nprogress)
 - [Highlight](https://github.com/highlightjs/highlight.js)
@@ -17,3 +18,7 @@
 
 - [ohmyga](https://ohmyga.cn)
 - [AyagawaSeirin](https://qwq.best)
+
+## 反馈/建议
+
+如果对该文档或主题有什么建议或者有误的地方可以通过邮箱 i#bhao.top （# 换成 @）提出哦！
