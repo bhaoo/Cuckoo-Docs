@@ -1,6 +1,10 @@
 # 常见问题
 <small>（这里收集了用户常出现的问题，会根据问题的提出进行更新）</small>
 
+## 首页进入文章页面卡顿
+
+请检查所安装插件是否已经取消载入 JQuery
+
 ## 友链无法正常显示
 
 友情链接需要“ [Links](https://github.com/bhaoo/Cuckoo/releases/download/1.0.2/Links.zip) ”插件支持哦，否则会导致出错。

@@ -7,13 +7,15 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"/>
 </head>
 <body>
   <div id="app">正在加载呐ヾ(*´▽‘*)ﾉ</div>
   <script>
     window.$docsify = {
       name: 'Cuckoo Docs',
-      repo: 'bhaoo/Cuckoo',
+      relativePath: true,
+      themeColor: '#3F51B5',
       coverpage: true,
       loadSidebar: true,
       subMaxLevel: 2,
@@ -24,11 +26,34 @@
         placeholder: '输入你想搜索的内容吧 (/▽＼)',
         noData: '找不到相关内容 （＞人＜；）',
         depth: 6,
+      },
+      formatUpdated: '{YYYY}-{MM}-{DD}',
+      copyCode: {
+        buttonText : '点击复制',
+        errorText  : '错误',
+        successText: '成功'
+      },
+      darklightTheme: {
+        siteFont : "PT Sans",
+        defaultTheme : 'light',
+        codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+        dark: {
+          accent: '#3F51B5'
+        },
+        light: {
+          accent: '#3F51B5',
+          sidebarSublink : '#505d6b'
+        }
       }
     }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.9.4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.9.4/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
   <script>
     var _hmt = _hmt || [];
     (function() {

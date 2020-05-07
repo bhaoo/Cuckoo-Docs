@@ -10,7 +10,7 @@ PS:可以给卑微作者点个 [Star](https://github.com/bhaoo/Cuckoo/) 嘛？
 
 ## 下载主题
 
-获取主题的方法：前往 [Github](https://github.com/bhaoo/Cuckoo/releases) 或者 QQ群 下载主题{docsify-updated}
+获取主题的方法：前往 [Github](https://github.com/bhaoo/Cuckoo/releases) 或者 QQ群 下载主题
 
 ## 安装主题
 
@@ -26,9 +26,9 @@ PS:可以给卑微作者点个 [Star](https://github.com/bhaoo/Cuckoo/) 嘛？
 
 ## 其他信息
 
-为了让您可以更加好的利用的本文档，推荐您先阅读这个 [「如何利用本文档」](/docs/how-to-use)
+1. 本文档还在不断完善中，欢迎前往项目提出PR
+2. 为了让您可以更加好的利用的本文档，推荐您先阅读这个 [「如何利用本文档」](/docs/how-to-use)
+3. 如果你喜欢这个主题，也欢迎给作者投食哦！ [点击投食](https://afdian.net/@bhaoo)
 
-如果你喜欢这个主题，也欢迎给作者投食哦！ [点击投食](https://afdian.net/@bhaoo)
-
-<small>最后更新时间：2020-03-25 适应于v1.0.2及以下版本<br>Copyright © 2020 [Bhao](https://dwd.moe/), under GPL-3.0 License.</small>
+<small>最后更新时间：{docsify-updated} 适应于v1.0.5及以下版本<br>Copyright © 2020 [Bhao](https://dwd.moe/), under GPL-3.0 License.</small>
 
