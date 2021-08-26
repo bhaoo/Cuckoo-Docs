@@ -1,5 +1,7 @@
 # 感谢您使用「Cuckoo」主题！
 
+您当前处于 V2 文档中。
+
 ## 主题状态
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/bhaoo/cuckoo?color=%2342b983&style=for-the-badge)
