@@ -9,7 +9,7 @@
 
 ## 友链页面CID
 
-请点击这里查看如何获取 [文章CID](/docs/problem?id=如何获取文章cid)
+请点击这里查看如何获取 [文章CID](/V2/problem?id=如何获取文章cid)
 
 ## 主页友链展示个数
 
