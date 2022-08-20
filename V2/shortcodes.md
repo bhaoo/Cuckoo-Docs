@@ -5,7 +5,7 @@
 ### 使用方式
 
 ```
-[pl title="标题" summary="副标题"]内容[/pl]
+[pl title="标题" summary="副标题" class="附加 Class"]内容[/pl]
 ```
 
 !> 需不显示副标题为空（summary=""）即可，其他也是如此
