@@ -32,5 +32,5 @@ PS:可以给卑微作者点个 [Star](https://github.com/bhaoo/Cuckoo/) 嘛？
 2. 为了让您可以更加好的利用的本文档，推荐您先阅读这个 [「如何利用本文档」](/v2/how-to-use)
 3. 如果你喜欢这个主题，也欢迎给作者投食哦！ [点击投食](https://afdian.net/@bhaoo)
 
-<small>最后更新时间：{docsify-updated} 适应于v1.0.5及以下版本<br>Copyright © 2020 [Bhao](https://dwd.moe/), under GPL-3.0 License.</small>
+<small>最后更新时间：{docsify-updated} 适应于v1.0.5及以下版本<br>Copyright © 2020-2023 [Bhao](https://dwd.moe/), under GPL-3.0 License.</small>
 
