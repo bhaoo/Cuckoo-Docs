@@ -12,7 +12,7 @@ PS:可以给卑微作者点个 [Star](https://github.com/bhaoo/Cuckoo/) 嘛？
 
 ## 下载主题
 
-获取主题的方法：前往 [Github](https://github.com/bhaoo/Cuckoo/releases) 或者 [QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=PufxSTTwURAsJC-jF-YLEugn41pPWbEE) 下载主题
+获取主题的方法：前往 [Github](https://github.com/bhaoo/Cuckoo/releases) 或者 [QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=s2GpijC6kAYicysKIUoV87cckdzRDova&authKey=XNFrI33rkha8i9vNTIMLCzqN9fCphaARFlptIb9cKB0PhwdC6fWIDn90MVi8JrfX&noverify=0&group_code=943195145) 下载主题
 
 ## 安装主题
 
