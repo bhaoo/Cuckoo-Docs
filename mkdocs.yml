@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Cuckoo Docs
+
+theme:
+  name: material
+  font:
+    code: Roboto Mono
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+
+repo_url: https://github.com/bhaoo/Cuckoo
+repo_name: bhaoo/Cuckoo
+
+copyright: Copyright © 2020-2023 <a href="https://dwd.moe/" target="_blank">Bhao</a>, under GPL-3.0 License.
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - glightbox
+
+extra_css:
+  - stylesheets/extra.css
