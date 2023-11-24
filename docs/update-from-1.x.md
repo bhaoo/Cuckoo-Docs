@@ -10,7 +10,7 @@
 
 3. 进入 `/usr/themes/` 将 `Cuckoo` 文件夹改名为其他（例如 `Cuckoogugugu` ）
 
-4. 前往 [首页](/) 或者 [QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=s2GpijC6kAYicysKIUoV87cckdzRDova&authKey=XNFrI33rkha8i9vNTIMLCzqN9fCphaARFlptIb9cKB0PhwdC6fWIDn90MVi8JrfX&noverify=0&group_code=943195145) 下载 Cuckoo
+4. 前往 [首页](index.md) 或者 [QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=s2GpijC6kAYicysKIUoV87cckdzRDova&authKey=XNFrI33rkha8i9vNTIMLCzqN9fCphaARFlptIb9cKB0PhwdC6fWIDn90MVi8JrfX&noverify=0&group_code=943195145) 下载 Cuckoo
 
 5. 解压压缩包至 `/usr/themes/` 并将文件夹改名为 `Cuckoo`
 
