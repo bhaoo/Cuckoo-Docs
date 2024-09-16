@@ -1,5 +1,10 @@
 # 首页
 
+<p align="center">
+    <img src="https://gcore.jsdelivr.net/gh/bhaoo/Cuckoo-Docs@latest/images/small_banner.png" />
+</p>
+
+
 !!! yep "Ciallo～(∠・ω< )⌒☆"
 
     感谢使用 Cuckoo 主题！欢迎来到 Cuckoo Docs！
