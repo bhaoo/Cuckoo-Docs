@@ -4,6 +4,7 @@ site_name: Cuckoo Docs
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     code: Roboto Mono
   language: zh
