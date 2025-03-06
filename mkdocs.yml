@@ -21,7 +21,7 @@ theme:
 repo_url: https://github.com/bhaoo/Cuckoo
 repo_name: bhaoo/Cuckoo
 
-copyright: Copyright © 2020-2023 <a href="https://dwd.moe/" target="_blank">Bhao</a>, under GPL-3.0 License.
+copyright: Copyright © 2020-2025 <a href="https://dwd.moe/" target="_blank">Bhao</a>, under GPL-3.0 License.
 
 markdown_extensions:
   - admonition
